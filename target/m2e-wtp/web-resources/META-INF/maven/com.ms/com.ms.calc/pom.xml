@@ -57,5 +57,11 @@
     </plugins>
   </build>
   <distributionManagement>
+  <repository>
+  <id>artifactory</id>
+  <name>Sample</name>
+  <url>http://localhost:8081/artifactory/Sample</url>
+  
+  </repository>
   </distributionManagement>
 </project>
