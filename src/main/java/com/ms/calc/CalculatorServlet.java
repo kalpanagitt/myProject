@@ -15,7 +15,7 @@ public class CalculatorServlet extends HttpServlet{
 			String val1=request.getParameter("txt1");
 			String val2=request.getParameter("txt2");
 			String mychoice=request.getParameter("choice");
-			if(mychoice.equals("add")){
+			if(mychoice=="add"){
 				res=new Calculator().Add(Integer.parseInt(val1),Integer.parseInt(val2));
 				out.println(res);
 			}
