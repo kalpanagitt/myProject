@@ -32,7 +32,7 @@ public class CalculatorServlet extends HttpServlet{
 				out.println(res);
 			}
 	}
-	public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServerException{
+	public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
 		doPost(request, response);
 	}
 }
