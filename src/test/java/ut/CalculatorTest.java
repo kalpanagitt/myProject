@@ -24,7 +24,7 @@ public class CalculatorTest{
 	}
 	@Test
 	public void testSub(){
-		assertTrue(cobj.Sub(3, 3)==0);
+		assertTrue(cobj.Sub(3, 3)!=0);
 	}
 	@Test
 	public void testMul(){
