@@ -2,5 +2,5 @@ projectKey=com.ms:com.ms.calc
 serverUrl=http://localhost:9000
 serverVersion=7.4.0.18908
 dashboardUrl=http://localhost:9000/dashboard?id=com.ms%3Acom.ms.calc
-ceTaskId=AWc_2j0hdd-cXEkgQcyh
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWc_2j0hdd-cXEkgQcyh
+ceTaskId=AWc_5C1qdd-cXEkgQcyj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWc_5C1qdd-cXEkgQcyj
