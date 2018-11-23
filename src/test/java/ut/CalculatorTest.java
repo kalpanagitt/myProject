@@ -28,7 +28,7 @@ public class CalculatorTest{
 	}
 	@Test
 	public void testMul(){
-		assertTrue(cobj.Mul(3, 2)==9);
+		assertTrue(cobj.Mul(3, 1)==9);
 	}
 	@Test
 	public void testDiv(){
