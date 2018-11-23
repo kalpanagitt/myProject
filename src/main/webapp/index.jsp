@@ -5,6 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MyProject</title>
 </head>
+<<<<<<< HEAD
 <body bgcolor="blue">
 <h2>CI Demo</h2>
 <form method="get" action="./CalculatorServlet">
