@@ -20,7 +20,7 @@ public class CalculatorTest{
 	}
 	@Test
 	public void testAdd(){
-		assertTrue(cobj.Add(3, 3)==0);
+		assertTrue(cobj.Add(3, 3)!=0);
 	}
 	@Test
 	public void testSub(){
@@ -28,7 +28,7 @@ public class CalculatorTest{
 	}
 	@Test
 	public void testMul(){
-		assertTrue(cobj.Mul(3, 4)==9);
+		assertTrue(cobj.Mul(3, 3)==9);
 	}
 	@Test
 	public void testDiv(){
