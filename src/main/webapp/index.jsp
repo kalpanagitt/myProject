@@ -5,17 +5,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MyProject</title>
 </head>
-<body bgcolor="orange">
+<body bgcolor="red">
 <h2>CI Demo</h2>
 <form method="get" action="./CalculatorServlet">
 Argument 1: <input type="text" name="txt1"><br>
 Argument 2: <input type="text" name="txt2"><br>
 Choose your Calculation:
 <select name="choice">
-<option value="add">Add</option>
+<option value="add">Addition</option>
 <option value="sub">Sub</option>
 <option value="mul">Mul</option>
-<option value="div">Div</option>
+<option value="div">Division</option>
 </select>
 <br>
 <input type="submit" value ="Calculate">
