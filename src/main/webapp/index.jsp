@@ -5,7 +5,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MyProject</title>
 </head>
+<<<<<<< HEAD
 <body bgcolor="blue">
+=======
+<body bgcolor="yellow">
+>>>>>>> refs/remotes/origin/B5
 <h2>CI Demo</h2>
 <form method="get" action="./CalculatorServlet">
 Argument 1: <input type="text" name="txt1"><br>
