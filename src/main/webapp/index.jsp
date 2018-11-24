@@ -6,7 +6,7 @@
 <title>MyProject</title>
 </head>
 
-<body bgcolor="aqua">
+<body bgcolor="gold">
  
 <h2>CI Demo</h2>
 <form method="get" action="./CalculatorServlet">
