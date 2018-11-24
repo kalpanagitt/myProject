@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 
-<coverage line-rate="0.2" branch-rate="0.0" lines-covered="5" lines-valid="25" branches-covered="0" branches-valid="8" complexity="1.6666666666666667" version="2.1.1" timestamp="1542946510334">
+<coverage line-rate="0.2" branch-rate="0.0" lines-covered="5" lines-valid="25" branches-covered="0" branches-valid="8" complexity="1.6666666666666667" version="2.1.1" timestamp="1542987645925">
 	<sources>
+		<source>D:/Agile Tools/ProjectWorkspace/group7/src/main/java</source>
 		<source>--source</source>
-		<source>D:/Agile Tools/ProjectWorkspace/myProject/src/main/java</source>
 	</sources>
 	<packages>
 		<package name="com.ms.calc" line-rate="0.2" branch-rate="0.0" complexity="1.6666666666666667">
